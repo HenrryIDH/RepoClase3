@@ -1,3 +1,4 @@
-Hola, como estas?
-Bien, vos?
+Hello, How are you?
+Fine, you?
 Todo bien.
+Que contas?
